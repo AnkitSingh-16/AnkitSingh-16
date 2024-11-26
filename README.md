@@ -1,3 +1,4 @@
+[![An image of @ankitsingh_'s Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ankitsingh_)](https://holopin.io/@ankitsingh_)
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A passionate Software developer</h3>
 
